@@ -41,6 +41,8 @@
     font-size: 21px;
     padding-bottom: 10px;
     border-bottom: dotted 1px;
+    height: 100px;
+    resize: none;
   }
   
   .calc-typed {
